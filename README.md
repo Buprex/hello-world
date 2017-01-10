@@ -1,2 +1,2 @@
 # hello-world
-First Github project of SebasDuranona!
+First Github project of SebasD
